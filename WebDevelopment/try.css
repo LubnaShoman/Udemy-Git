@@ -1,0 +1,71 @@
+h2 {
+  color: red;
+}
+
+#h2blue {
+  color: blue;
+}
+
+.graydiv {
+  background-color: gray;
+}
+
+/* This is a comment*/
+
+
+h2 {
+  font-family: "Courier", courier, monospace;
+  font-size: X-large; background-color:Aqua;  font-style: italic; font-weight: dark;
+  text-align: center; color:rgb(114, 36, 116); border: 3px solid blue;
+}
+
+img {
+  float: right;
+}
+
+
+p {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 1.25em;
+}
+
+table {
+  border: 5px double black;
+  border-collapse: collapse;
+}
+
+th, td {
+  border-width: 3px;
+  border-style: solid;
+  border-color: black;
+}
+
+/* Adding Button */
+
+div {
+  width: 200px;
+  font-size: 28px;
+}
+
+#d1 {
+  background-color: lightblue;
+}
+
+#d2 {
+  background-color: yellow;
+}
+
+/* getElementById & ClassName & innerHTML */
+
+div {
+  width: 200px;
+  font-size: 28px;
+}
+
+.bluecolor {
+  background-color: lightblue;
+}
+
+.yellow {
+  background-color: yellow;
+}
